@@ -36,7 +36,6 @@ for pkg in readdir("METADATA")
         "Processing",
         "RaggedArrays",
         "RationalExtensions",
-        "SignedDistanceFields",
         "SolveBio",
         "SortPerf",
     ] && continue
